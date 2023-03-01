@@ -1,0 +1,59 @@
+/* Global Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    font-weight: normal;
+  }
+  
+  p {
+    margin: 0;
+  }
+  
+  /* Hero Banner Styles */
+  .hero-banner {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .hero-banner h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  
+  .hero-banner p {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  
+  .button {
+    display: inline-block;
+    background-color: #4c63af;
+    color: #fff;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
+  /* Card Styles */
+  .card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 50px auto;
+    max-width: 1000px;
+  }
+  
+  .card {
+    background-color: #ebd4db;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    width:
